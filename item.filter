@@ -2724,6 +2724,7 @@ ItemDisplay[cm1 MAG (HIGHVENGPFX OR (HIGHVENGSFX AND MIDVENGPFX) OR (MIDVENGPFX 
 SHOPPING LIST (AUTO-GENERATED) START
 // (n8n controls everything between these lines)
 ItemDisplay[uhm UNI !ID]: [DankTankTV] %NAME%
+ItemDisplay[ulg UNI !ID]: [DankTankTV] %NAME%
 SHOPPING LIST (AUTO-GENERATED) END
 
 
