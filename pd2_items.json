@@ -25,7 +25,7 @@
     "name": "Infernal Cranium",
     "type": "Helms Normal Unique/Set",
     "code": "cap",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "infernal",
       "infernal cranium",
@@ -36,7 +36,7 @@
     "name": "Sander's Paragon",
     "type": "Helms Normal Unique/Set",
     "code": "cap",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "sander",
       "sander s paragon",
@@ -124,7 +124,7 @@
     "name": "Arcanna's Head",
     "type": "Item Normal Unique/Set",
     "code": "skp",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "arcanna",
       "arcanna s head",
@@ -184,7 +184,7 @@
     "name": "Berserker's Headgear",
     "type": "Item Normal Unique/Set",
     "code": "hlm",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "berserker",
       "berserker s headgear",
@@ -255,7 +255,7 @@
     "name": "Isenhart's Horns",
     "type": "Item Normal Unique/Set",
     "code": "fhl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "isenhart",
       "isenhart s horns",
@@ -364,7 +364,7 @@
     "name": "Cathan's Visage",
     "type": "Item Normal Unique/Set",
     "code": "msk",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "cathan",
       "cathan s visage",
@@ -456,7 +456,7 @@
     "name": "Tancred's Skull",
     "type": "Item Normal Unique/Set",
     "code": "bhm",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "tancred",
       "tancred s skull",
@@ -559,7 +559,7 @@
     "name": "Sigon's Visor",
     "type": "Item Normal Unique/Set",
     "code": "ghm",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "sigon",
       "sigon s visor",
@@ -675,7 +675,7 @@
     "name": "Iratha's Coil",
     "type": "Item Normal Unique/Set",
     "code": "crn",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "iratha",
       "iratha s coil",
@@ -688,7 +688,7 @@
     "name": "Milabrega's Diadem",
     "type": "Item Normal Unique/Set",
     "code": "crn",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "milabrega",
       "milabrega s diadem",
@@ -778,7 +778,7 @@
     "name": "Naj's Circlet",
     "type": "Circlets Normal Unique/Set",
     "code": "ci0",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "naj",
       "naj s circlet",
@@ -868,7 +868,7 @@
     "name": "Arctic Furs",
     "type": "Chests Normal Unique/Set",
     "code": "qui",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "arctic",
       "arctic furs",
@@ -959,7 +959,7 @@
     "name": "Vidala's Ambush",
     "type": "Item Normal Unique/Set",
     "code": "lea",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "vidala",
       "vidala s ambush",
@@ -1078,7 +1078,7 @@
     "name": "Cow King's Hide",
     "type": "Item Normal Unique/Set",
     "code": "stu",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "cow",
       "cow king s hide",
@@ -1157,7 +1157,7 @@
     "name": "Angelic Mantle",
     "type": "Item Normal Unique/Set",
     "code": "rng",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "angelic",
       "angelic mantle",
@@ -1321,7 +1321,7 @@
     "name": "Cathan's Mesh",
     "type": "Item Normal Unique/Set",
     "code": "chn",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "cathan",
       "cathan s mesh",
@@ -1427,7 +1427,7 @@
     "name": "Isenhart's Case",
     "type": "Item Normal Unique/Set",
     "code": "brs",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "isenhart",
       "isenhart s case",
@@ -1506,7 +1506,7 @@
     "name": "Berserker's Hauberk",
     "type": "Item Normal Unique/Set",
     "code": "spl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "berserker",
       "berserker s hauberk",
@@ -1739,7 +1739,7 @@
     "name": "Sigon's Shelter",
     "type": "Item Normal Unique/Set",
     "code": "gth",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "sigon",
       "sigon s shelter",
@@ -1852,7 +1852,7 @@
     "name": "Arcanna's Flesh",
     "type": "Item Normal Unique/Set",
     "code": "ltp",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "arcanna",
       "arcanna s flesh",
@@ -1939,7 +1939,7 @@
     "name": "Tancred's Spine",
     "type": "Item Normal Unique/Set",
     "code": "ful",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "tancred",
       "tancred s spine",
@@ -2044,7 +2044,7 @@
     "name": "Milabrega's Robe",
     "type": "Item Normal Unique/Set",
     "code": "aar",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "milabrega",
       "milabrega s robe",
@@ -2160,7 +2160,7 @@
     "name": "Hsarus' Iron Fist",
     "type": "Shields Normal Unique/Set",
     "code": "buc",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "hsarus",
       "hsarus iron fist",
@@ -2221,7 +2221,7 @@
     "name": "Cleglaw's Claw",
     "type": "Item Normal Unique/Set",
     "code": "sml",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "cleglaw",
       "cleglaw s claw",
@@ -2311,7 +2311,7 @@
     "name": "Civerb's Ward",
     "type": "Item Normal Unique/Set",
     "code": "lrg",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "civerb",
       "civerb s ward",
@@ -2460,7 +2460,7 @@
     "name": "Milabrega's Orb",
     "type": "Item Normal Unique/Set",
     "code": "kit",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "milabrega",
       "milabrega s orb",
@@ -2605,7 +2605,7 @@
     "name": "Sigon's Guard",
     "type": "Item Normal Unique/Set",
     "code": "tow",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "sigon",
       "sigon s guard",
@@ -2684,7 +2684,7 @@
     "name": "Isenhart's Parry",
     "type": "Item Normal Unique/Set",
     "code": "gts",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "isenhart",
       "isenhart s parry",
@@ -2776,7 +2776,7 @@
     "name": "Death's Hand",
     "type": "Gloves Normal Unique/Set",
     "code": "lgl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "death",
       "death s hand",
@@ -2876,7 +2876,7 @@
     "name": "Sander's Taboo",
     "type": "Item Normal Unique/Set",
     "code": "vgl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "sander",
       "sander s taboo",
@@ -2967,7 +2967,7 @@
     "name": "Cleglaw's Pincers",
     "type": "Item Normal Unique/Set",
     "code": "mgl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "cleglaw",
       "cleglaw s pincers",
@@ -3053,7 +3053,7 @@
     "name": "Arctic Mitts",
     "type": "Item Normal Unique/Set",
     "code": "tgl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "arctic",
       "arctic mitts",
@@ -3064,7 +3064,7 @@
     "name": "Iratha's Cuff",
     "type": "Item Normal Unique/Set",
     "code": "tgl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "iratha",
       "iratha s cuff",
@@ -3160,7 +3160,7 @@
     "name": "Sigon's Gage",
     "type": "Item Normal Unique/Set",
     "code": "hgl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "sigon",
       "sigon s gage",
@@ -3244,7 +3244,7 @@
     "name": "Tancred's Hobnails",
     "type": "Boots Normal Unique/Set",
     "code": "lbt",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "tancred",
       "tancred s hobnails",
@@ -3342,7 +3342,7 @@
     "name": "Cow King's Hooves",
     "type": "Item Normal Unique/Set",
     "code": "vbt",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "cow",
       "cow king s hooves",
@@ -3355,7 +3355,7 @@
     "name": "Sander's Riprap",
     "type": "Item Normal Unique/Set",
     "code": "vbt",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "sander",
       "sander s riprap",
@@ -3432,7 +3432,7 @@
     "name": "Hsarus' Iron Heel",
     "type": "Item Normal Unique/Set",
     "code": "mbt",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "hsarus",
       "hsarus iron heel",
@@ -3519,7 +3519,7 @@
     "name": "Vidala's Fetlock",
     "type": "Item Normal Unique/Set",
     "code": "tbt",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "vidala",
       "vidala s fetlock",
@@ -3628,7 +3628,7 @@
     "name": "Sigon's Sabot",
     "type": "Item Normal Unique/Set",
     "code": "hbt",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "sigon",
       "sigon s sabot",
@@ -3716,7 +3716,7 @@
     "name": "Death's Guard",
     "type": "Belts Normal Unique/Set",
     "code": "lbl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "death",
       "death s guard",
@@ -3793,7 +3793,7 @@
     "name": "Arctic Binding",
     "type": "Item Normal Unique/Set",
     "code": "vbl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "arctic",
       "arctic binding",
@@ -3879,7 +3879,7 @@
     "name": "Hsarus' Iron Stay",
     "type": "Item Normal Unique/Set",
     "code": "mbl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "hsarus",
       "hsarus iron stay",
@@ -3891,7 +3891,7 @@
     "name": "Hwanin's Blessing",
     "type": "Item Normal Unique/Set",
     "code": "mbl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "hwanin",
       "hwanin s blessing",
@@ -3994,7 +3994,7 @@
     "name": "Infernal Sign",
     "type": "Item Normal Unique/Set",
     "code": "tbl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "infernal",
       "infernal sign",
@@ -4005,7 +4005,7 @@
     "name": "Iratha's Cord",
     "type": "Item Normal Unique/Set",
     "code": "tbl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "iratha",
       "iratha s cord",
@@ -4137,7 +4137,7 @@
     "name": "Sigon's Wrap",
     "type": "Item Normal Unique/Set",
     "code": "hbl",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "sigon",
       "sigon s wrap",
@@ -4742,7 +4742,7 @@
     "name": "Immortal King's Will",
     "type": "Item Normal Unique/Set",
     "code": "ba5",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "immortal",
       "immortal king s will",
@@ -5463,7 +5463,7 @@
     "name": "Berserker's Hatchet",
     "type": "Item Normal Unique/Set",
     "code": "2ax",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "berserker",
       "berserker s hatchet",
@@ -5540,7 +5540,7 @@
     "name": "Tancred's Crowbill",
     "type": "Item Normal Unique/Set",
     "code": "mpi",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "tancred",
       "tancred s crowbill",
@@ -6659,7 +6659,7 @@
     "name": "Angelic Sickle",
     "type": "Item Normal Unique/Set",
     "code": "sbr",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "angelic",
       "angelic sickle",
@@ -6845,7 +6845,7 @@
     "name": "Isenhart's Lightbrand",
     "type": "Item Normal Unique/Set",
     "code": "bsd",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "isenhart",
       "isenhart s lightbrand",
@@ -6941,7 +6941,7 @@
     "name": "Cleglaw's Tooth",
     "type": "Item Normal Unique/Set",
     "code": "lsd",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "cleglaw",
       "cleglaw s tooth",
@@ -7033,7 +7033,7 @@
     "name": "Death's Touch",
     "type": "Item Normal Unique/Set",
     "code": "wsd",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "death",
       "death s touch",
@@ -7505,7 +7505,7 @@
     "name": "Infernal Spire",
     "type": "Daggers Normal Unique/Set",
     "code": "dgr",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "infernal",
       "infernal spire",
@@ -9117,7 +9117,7 @@
     "name": "Vidala's Barb",
     "type": "Item Normal Unique/Set",
     "code": "lbb",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "vidala",
       "vidala s barb",
@@ -9190,7 +9190,7 @@
     "name": "Arctic Horn",
     "type": "Item Normal Unique/Set",
     "code": "swb",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "arctic",
       "arctic horn",
@@ -9736,7 +9736,7 @@
     "name": "Cathan's Rule",
     "type": "Item Normal Unique/Set",
     "code": "bst",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "cathan",
       "cathan s rule",
@@ -9821,7 +9821,7 @@
     "name": "Arcanna's Deathwand",
     "type": "Item Normal Unique/Set",
     "code": "wst",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "arcanna",
       "arcanna s deathwand",
@@ -10006,7 +10006,7 @@
     "name": "Sander's Superstition",
     "type": "Item Normal Unique/Set",
     "code": "bwn",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "sander",
       "sander s superstition",
@@ -10230,7 +10230,7 @@
     "name": "Civerb's Cudgel",
     "type": "Item Normal Unique/Set",
     "code": "gsc",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "civerb",
       "civerb s cudgel",
@@ -10319,7 +10319,7 @@
     "name": "Milabrega's Rod",
     "type": "Item Normal Unique/Set",
     "code": "wsp",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "milabrega",
       "milabrega s rod",
