@@ -1,2 +1,16 @@
 {
+  "DankTankTV": [
+    {
+      "name": "Nightwing's Veil",
+      "code": "uhm",
+      "category": "unique",
+      "ethereal": false
+    },
+    {
+      "name": "Titan's Grip",
+      "code": "ulg",
+      "category": "unique",
+      "ethereal": false
+    }
+  ]
 }
