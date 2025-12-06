@@ -1,3 +1,10 @@
 {
-  "DankTankTV": []
+  "DankTankTV": [
+    {
+      "name": "Titan's Grip",
+      "code": "ulg",
+      "category": "unique",
+      "ethereal": false
+    }
+  ]
 }
