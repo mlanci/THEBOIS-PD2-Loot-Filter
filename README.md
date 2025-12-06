@@ -5,6 +5,80 @@ A Discord bot that helps players collaboratively manage a shared **Project Diabl
 This project is intentionally lightweight and transparent. It is designed to be useful first, and robust over time as edge cases are discovered and addressed.
 
 ---
+## How to set up your launcher to sync to this filter.
+- Browse to your PorjectD2 repository (mine is C:\Diablo II\ProjectD2)
+- Open AppData folder
+- Open launcherSettings.json
+- Look for "Pd2AuthorList"
+- Scroll down the list of "StorageAuthorList" to you reach "PiLLLa Filter"
+- At the end of Pilla Filter "}" add a "," and add this
+```json
+{
+  "name": "BAGEL BOIS",
+  "url": "https://api.github.com/repos/mlanci/THEBOIS-PD2-Loot-Filter/contents",
+  "author": "BAGEL BOIS"
+}
+```
+
+So the full StorageAuthorList will look like this
+```json
+  {
+        "name": "Wolfie's PD2 Loot Filters",
+        "url": "https://api.github.com/repos/WolfieeifloW/pd2filter/contents",
+        "author": "Wolfie"
+      },
+      {
+        "name": "Kryszard's PD2 Loot Filter",
+        "url": "https://api.github.com/repos/Kryszard-POD/Kryszard-s-PD2-Loot-Filter/contents",
+        "author": "Kryszard"
+      },
+      {
+        "name": "Kassahi's PD2 Filter",
+        "url": "https://api.github.com/repos/KassahiPD2/Kassahi/contents",
+        "author": "Kassahi"
+      },
+      {
+        "name": "eqN's PD2 Filters",
+        "url": "https://api.github.com/repos/eqNj/eqN-PD2-Filter/contents",
+        "author": "eqN"
+      },
+      {
+        "name": "Erazure's PD2 Loot Filter",
+        "url": "https://api.github.com/repos/FiltersBy-Erazure/PD2-Loot-Filter/contents",
+        "author": "Erazure"
+      },
+      {
+        "name": "HiimFilter by Maaaark + HiimDave",
+        "url": "https://api.github.com/repos/Maaaaaarrk/HiimFilter-PD2-Filter/contents",
+        "author": "HiimFilter"
+      },
+      {
+        "name": "DarkHumility + ADev Filter",
+        "url": "https://api.github.com/repos/DarkHumility/DHFilter/contents",
+        "author": "ADevDH"
+      },
+      {
+        "name": "Dauracul's PD2 Loot Filter",
+        "url": "https://api.github.com/repos/Dauracul/filter/contents",
+        "author": "Dauracul"
+      },
+      {
+        "name": "Sven's Filter",
+        "url": "https://api.github.com/repos/StandInTheRiver/Sven-s-Filter/contents",
+        "author": "Sven"
+      },
+      {
+        "name": "PiLLLa Filter",
+        "url": "https://api.github.com/repos/PiLLLaa/pd2/contents",
+        "author": "PiLLLa"
+      },
+      {
+        "name": "BAGEL BOIS",
+        "url": "https://api.github.com/repos/mlanci/THEBOIS-PD2-Loot-Filter/contents",
+        "author": "BAGEL BOIS"
+      }
+```
+
 
 ## ✅ What Works Today
 
