@@ -78,7 +78,7 @@ So the full StorageAuthorList will look like this
         "author": "BAGEL BOIS"
       }
 ```
-
+Save it and select this filter in the PD2 Launcher!
 
 ## ✅ What Works Today
 
