@@ -68,7 +68,8 @@ SHOPPING LIST (AUTO-GENERATED) END
 ## ⚠️ Known Limitations and Caveats
 
 This section is intentionally explicit so users understand current constraints.
-! IT CANNOT SUPPORT ADDING MULTIPLE ITEMS IN ONE REQUEST MESSAGE.
+
+> IT CANNOT SUPPORT ADDING MULTIPLE ITEMS IN ONE REQUEST MESSAGE.
 ---
 
 ### Duplicate Entries May Occur
