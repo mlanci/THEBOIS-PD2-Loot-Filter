@@ -25,5 +25,12 @@
       "ethereal": false
     }
   ],
-  "Celloria": []
+  "Celloria": [
+    {
+      "name": "Sankekur's Fall",
+      "code": "pa3",
+      "category": "unique",
+      "ethereal": false
+    }
+  ]
 }
