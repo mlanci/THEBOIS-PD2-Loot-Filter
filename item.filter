@@ -2730,6 +2730,11 @@ ItemDisplay[9gs UNI !ID]: [Whizzurd] %NAME%
 ItemDisplay[pa3 UNI !ID]: [Celloria] %NAME%
 SHOPPING LIST (AUTO-GENERATED) END
 
+//Nico's Custom Rules
+ItemDisplay[NEC MAG !ID]: %PURPLE%~C~ %BLUE%%NAME%
+ItemDisplay[NEC RARE !ID]: %PURPLE%~C~ %YELLOW%%NAME%
+ItemDisplay[HEAD (MAG OR RARE) ((SK94>2 AND TABNEC1>1) OR (SK94>1 AND TABNEC1>2) OR (SK94>2 AND CLNEC>1))]: %RED%*%GREEN%*%BLUE%[Celloria]%GREEN%*%RED%* %WHITE%%NAME%
+ItemDisplay[WAND NMAG (SK367>2 AND SK94>0) !SOCK=1]: %RED%*%GREEN%*%BLUE%[Celloria]%GREEN%*%RED%* %WHITE%%NAME%%CONTINUE%
 
 
 //NEW PD2 UNIQUES
