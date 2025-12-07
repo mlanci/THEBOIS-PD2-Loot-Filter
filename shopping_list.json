@@ -5,6 +5,24 @@
       "code": "xsh",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Witchwild String",
+      "code": "8s8",
+      "category": "unique",
+      "ethereal": false
+    },
+    {
+      "name": "Skin of the Vipermagi",
+      "code": "xea",
+      "category": "unique",
+      "ethereal": false
+    },
+    {
+      "name": "The Vile Husk",
+      "code": "9gs",
+      "category": "unique",
+      "ethereal": false
     }
   ]
 }
