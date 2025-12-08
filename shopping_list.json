@@ -75,6 +75,12 @@
       "code": "uui",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Rockfleece",
+      "code": "fld",
+      "category": "unique",
+      "ethereal": false
     }
   ]
 }
