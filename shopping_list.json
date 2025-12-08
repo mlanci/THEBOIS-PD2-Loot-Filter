@@ -63,6 +63,12 @@
       "code": "obf",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Ormus' Robes",
+      "code": "uui",
+      "category": "unique",
+      "ethereal": false
     }
   ]
 }
