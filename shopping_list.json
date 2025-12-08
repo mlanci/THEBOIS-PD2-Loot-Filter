@@ -37,6 +37,12 @@
       "code": "xit",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Corpsemourn",
+      "code": "xar",
+      "category": "unique",
+      "ethereal": false
     }
   ],
   "Syland": [
