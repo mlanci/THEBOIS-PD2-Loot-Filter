@@ -2739,6 +2739,7 @@ ItemDisplay[fld UNI !ID]: [Syland] %NAME%
 ItemDisplay[uit UNI !ID]: [Syland] %NAME%
 ItemDisplay[zlb UNI !ID]: [Syland] %NAME%
 ItemDisplay[hbl UNI !ID]: [Syland] %NAME%
+ItemDisplay[ulc UNI !ID]: [Syland] %NAME%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Nico's Custom Rules
