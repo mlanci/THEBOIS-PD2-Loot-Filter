@@ -51,6 +51,12 @@
       "code": "uhm",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Kira's Guardian",
+      "code": "ci2",
+      "category": "unique",
+      "ethereal": false
     }
   ]
 }
