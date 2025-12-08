@@ -38,5 +38,13 @@
       "category": "unique",
       "ethereal": false
     }
+  ],
+  "Syland": [
+    {
+      "name": "Harlequin Crest",
+      "code": "uap",
+      "category": "unique",
+      "ethereal": false
+    }
   ]
 }
