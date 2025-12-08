@@ -61,6 +61,12 @@
       "code": "xar",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Lightsabre",
+      "code": "7cr",
+      "category": "unique",
+      "ethereal": false
     }
   ],
   "Syland": [
