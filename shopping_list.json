@@ -57,6 +57,12 @@
       "code": "ci2",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Death's Fathom",
+      "code": "obf",
+      "category": "unique",
+      "ethereal": false
     }
   ]
 }
