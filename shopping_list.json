@@ -93,6 +93,12 @@
       "code": "zlb",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Bladebuckle",
+      "code": "hbl",
+      "category": "unique",
+      "ethereal": false
     }
   ]
 }
