@@ -31,6 +31,12 @@
       "code": "pa3",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Tiamat's Rebuke",
+      "code": "xit",
+      "category": "unique",
+      "ethereal": false
     }
   ]
 }
