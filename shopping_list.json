@@ -117,6 +117,12 @@
       "code": "xmb",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Snowclash",
+      "code": "ztb",
+      "category": "unique",
+      "ethereal": false
     }
   ]
 }
