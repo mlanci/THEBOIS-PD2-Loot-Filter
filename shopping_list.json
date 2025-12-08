@@ -81,6 +81,12 @@
       "code": "fld",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Stormshield",
+      "code": "uit",
+      "category": "unique",
+      "ethereal": false
     }
   ]
 }
