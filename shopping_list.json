@@ -123,6 +123,12 @@
       "code": "ztb",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Gerke's Sanctuary",
+      "code": "xow",
+      "category": "unique",
+      "ethereal": false
     }
   ]
 }
