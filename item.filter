@@ -2745,6 +2745,8 @@ ItemDisplay[xmb UNI !ID]: [Syland] %NAME%
 ItemDisplay[ztb UNI !ID]: [Syland] %NAME%
 ItemDisplay[xow UNI !ID]: [Syland] %NAME%
 ItemDisplay[8mx UNI !ID]: [Whizzurd] %NAME%
+ItemDisplay[ztb UNI !ID]: [Whizzurd] %NAME%
+ItemDisplay[cqv3 UNI !ID]: [Whizzurd] %NAME%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Nico's Custom Rules
