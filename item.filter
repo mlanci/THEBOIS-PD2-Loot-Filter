@@ -2733,6 +2733,7 @@ ItemDisplay[uap UNI !ID]: [Syland] %NAME%
 ItemDisplay[uhm UNI !ID]: [Syland] %NAME%
 ItemDisplay[ci2 UNI !ID]: [Syland] %NAME%
 ItemDisplay[obf UNI !ID]: [Syland] %NAME%
+ItemDisplay[uui UNI !ID]: [Syland] %NAME%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Nico's Custom Rules
