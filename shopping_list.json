@@ -87,6 +87,12 @@
       "code": "uit",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "String of Ears",
+      "code": "zlb",
+      "category": "unique",
+      "ethereal": false
     }
   ]
 }
