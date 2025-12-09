@@ -2750,6 +2750,8 @@ ItemDisplay[cqv3 UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[7cr UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[7ta UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[6lw UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
+ItemDisplay[cap UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
+ItemDisplay[cap UNI ID]: [Whizzurd] %NAME%%CONTINUE%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Nico's Custom Rules
