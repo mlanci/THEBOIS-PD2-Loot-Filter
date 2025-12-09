@@ -2756,8 +2756,6 @@ ItemDisplay[zlb UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[zlb UNI ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[xkp UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[xkp UNI ID]: [Whizzurd] %NAME%%CONTINUE%
-ItemDisplay[ulg SET !ID]: [Whizzurd] %NAME%%CONTINUE%
-ItemDisplay[ulg SET ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[xlb UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[xlb UNI ID]: [Whizzurd] %NAME%%CONTINUE%
 SHOPPING LIST (AUTO-GENERATED) END
