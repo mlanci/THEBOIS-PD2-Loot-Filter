@@ -165,6 +165,12 @@
       "code": "xow",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Lidless Wall",
+      "code": "xsh",
+      "category": "unique",
+      "ethereal": false
     }
   ]
 }
