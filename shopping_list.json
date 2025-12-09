@@ -189,6 +189,12 @@
       "code": "xsh",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Tal Rasha's Guardianship",
+      "code": "uth",
+      "category": "unique",
+      "ethereal": false
     }
   ]
 }
