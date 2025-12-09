@@ -53,6 +53,18 @@
       "code": "xkp",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Laying of Hands",
+      "code": "ulg",
+      "category": "set",
+      "ethereal": false
+    },
+    {
+      "name": "Rite of Passage",
+      "code": "xlb",
+      "category": "unique",
+      "ethereal": false
     }
   ],
   "Celloria": [
