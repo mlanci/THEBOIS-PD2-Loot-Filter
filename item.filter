@@ -2752,6 +2752,10 @@ ItemDisplay[xsh UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[xsh UNI ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[xsh UNI !ID]: [Syland] %NAME%%CONTINUE%
 ItemDisplay[xsh UNI ID]: [Syland] %NAME%%CONTINUE%
+ItemDisplay[zlb UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
+ItemDisplay[zlb UNI ID]: [Whizzurd] %NAME%%CONTINUE%
+ItemDisplay[xkp UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
+ItemDisplay[xkp UNI ID]: [Whizzurd] %NAME%%CONTINUE%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Nico's Custom Rules
