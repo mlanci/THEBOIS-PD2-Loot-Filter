@@ -2752,10 +2752,10 @@ ItemDisplay[7ta UNI !ID]: [Celloria] %NAME%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Mikes testing
-ItemDisplay[ulg UNI !ID]: [Celloria] %NAME%%CONTINUE%
-ItemDisplay[ulg UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
-ItemDisplay[ulg UNI ID]: [Celloria] %NAME%%CONTINUE%
-ItemDisplay[ulg UNI ID]: [Whizzurd] %NAME%%CONTINUE%
+ItemDisplay[ulg UNI ETH !ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[ulg UNI ETH !ID]: [Whizzurd] %NAME%%CONTINUE%
+ItemDisplay[ulg UNI ETH ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[ulg UNI ETH ID]: [Whizzurd] %NAME%%CONTINUE%
 
 //Nico's Custom Rules
 ItemDisplay[NEC MAG !ID]: %PX-68%%PURPLE%~C~ %BLUE%%NAME%
