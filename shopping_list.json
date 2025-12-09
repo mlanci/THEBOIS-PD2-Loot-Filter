@@ -59,6 +59,12 @@
       "code": "xlb",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Arachnid Mesh",
+      "code": "ulc",
+      "category": "unique",
+      "ethereal": false
     }
   ],
   "Celloria": [
