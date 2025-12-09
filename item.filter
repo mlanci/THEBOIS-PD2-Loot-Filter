@@ -2751,6 +2751,12 @@ ItemDisplay[7cr UNI !ID]: [Celloria] %NAME%
 ItemDisplay[7ta UNI !ID]: [Celloria] %NAME%
 SHOPPING LIST (AUTO-GENERATED) END
 
+//Mikes testing
+ItemDisplay[ulg UNI !ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[ulg UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
+ItemDisplay[ulg UNI ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[ulg UNI ID]: [Whizzurd] %NAME%%CONTINUE%
+
 //Nico's Custom Rules
 ItemDisplay[NEC MAG !ID]: %PX-68%%PURPLE%~C~ %BLUE%%NAME%
 ItemDisplay[NEC RARE !ID]: %PX-68%%PURPLE%~C~ %YELLOW%%NAME%
