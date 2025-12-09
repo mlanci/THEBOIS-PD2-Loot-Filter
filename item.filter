@@ -2737,7 +2737,6 @@ ItemDisplay[fld UNI !ID]: [Syland] %NAME%%CONTINUE%
 ItemDisplay[uit UNI !ID]: [Syland] %NAME%%CONTINUE%
 ItemDisplay[zlb UNI !ID]: [Syland] %NAME%%CONTINUE%
 ItemDisplay[hbl UNI !ID]: [Syland] %NAME%%CONTINUE%
-ItemDisplay[ulc UNI !ID]: [Syland] %NAME%%CONTINUE%
 ItemDisplay[uow UNI !ID]: [Syland] %NAME%%CONTINUE%
 ItemDisplay[xmb UNI !ID]: [Syland] %NAME%%CONTINUE%
 ItemDisplay[ztb UNI !ID]: [Syland] %NAME%%CONTINUE%
