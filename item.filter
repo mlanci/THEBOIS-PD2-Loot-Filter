@@ -2754,10 +2754,6 @@ ItemDisplay[ulc UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[ulc UNI ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[uth UNI !ID]: [Syland] %NAME%%CONTINUE%
 ItemDisplay[uth UNI ID]: [Syland] %NAME%%CONTINUE%
-ItemDisplay[xhn UNI !ID]: [Celloria] %NAME%%CONTINUE%
-ItemDisplay[xhn UNI ID]: [Celloria] %NAME%%CONTINUE%
-ItemDisplay[7gd UNI !ID]: [Celloria] %NAME%%CONTINUE%
-ItemDisplay[7gd UNI ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[aqv3 UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[aqv3 UNI ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[uhm UNI !ID]: [Celloria] %NAME%%CONTINUE%
