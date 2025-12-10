@@ -2763,6 +2763,8 @@ ItemDisplay[uvb UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[uvb UNI ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xhn UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xhn UNI ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[7gd UNI !ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[7gd UNI ID]: [Celloria] %NAME%%CONTINUE%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Nico's Custom Rules
