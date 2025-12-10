@@ -2761,6 +2761,8 @@ ItemDisplay[uth UNI !ID]: [Syland] %NAME%%CONTINUE%
 ItemDisplay[uth UNI ID]: [Syland] %NAME%%CONTINUE%
 ItemDisplay[uvb UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[uvb UNI ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[xhn UNI !ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[xhn UNI ID]: [Celloria] %NAME%%CONTINUE%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Nico's Custom Rules
