@@ -69,12 +69,6 @@
   ],
   "Celloria": [
     {
-      "name": "Tiamat's Rebuke",
-      "code": "xit",
-      "category": "unique",
-      "ethereal": false
-    },
-    {
       "name": "Corpsemourn",
       "code": "xar",
       "category": "unique",
