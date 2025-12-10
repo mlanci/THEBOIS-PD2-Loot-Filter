@@ -139,6 +139,12 @@
       "code": "xul",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Widowmaker",
+      "code": "6sw",
+      "category": "unique",
+      "ethereal": false
     }
   ],
   "Syland": [
