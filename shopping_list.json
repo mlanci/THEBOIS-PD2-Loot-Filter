@@ -69,12 +69,6 @@
   ],
   "Celloria": [
     {
-      "name": "Sandstorm Trek",
-      "code": "uvb",
-      "category": "unique",
-      "ethereal": false
-    },
-    {
       "name": "Shaftstop",
       "code": "xhn",
       "category": "unique",
