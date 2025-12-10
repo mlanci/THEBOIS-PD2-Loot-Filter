@@ -2755,8 +2755,6 @@ ItemDisplay[zlb UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[zlb UNI ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[xkp UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[xkp UNI ID]: [Whizzurd] %NAME%%CONTINUE%
-ItemDisplay[xlb UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
-ItemDisplay[xlb UNI ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[ulc UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[ulc UNI ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[uth UNI !ID]: [Syland] %NAME%%CONTINUE%
