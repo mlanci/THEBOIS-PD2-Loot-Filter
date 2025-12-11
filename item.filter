@@ -2770,6 +2770,10 @@ ItemDisplay[xea UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xea UNI ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[uts UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[uts UNI ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[am2 (MAG OR RARE) !ID]: *C* [Whizzurd] %NAME%%CONTINUE%
+ItemDisplay[am2 (MAG OR RARE) ID]: *C* [Whizzurd] %NAME%%CONTINUE%
+ItemDisplay[am7 (MAG OR RARE) !ID]: *C* [Whizzurd] %NAME%%CONTINUE%
+ItemDisplay[am7 (MAG OR RARE) ID]: *C* [Whizzurd] %NAME%%CONTINUE%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Nico's Custom Rules
