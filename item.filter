@@ -2764,6 +2764,8 @@ ItemDisplay[6sw UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[6sw UNI ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[am7 MAG TABSK0>1 !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[am7 MAG TABSK0>1 ID]: [Whizzurd] %NAME%%CONTINUE%
+ItemDisplay[am2 (MAG OR RARE) !ID]: *C* [Whizzurd] %NAME%%CONTINUE%
+ItemDisplay[am2 (MAG OR RARE) ID]: *C* [Whizzurd] %NAME%%CONTINUE%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Nico's Custom Rules
