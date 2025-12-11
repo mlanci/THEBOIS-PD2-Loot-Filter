@@ -1,1 +1,1592 @@
-
+=[
+  {
+    "code": "ALLSK",
+    "class": null,
+    "skillGroup": "All Skills",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "CLSK0",
+    "class": null,
+    "skillGroup": "Amazon Skills",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "CLSK1",
+    "class": null,
+    "skillGroup": "Sorceress Skills",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "CLSK2",
+    "class": null,
+    "skillGroup": "Necromancer Skills",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "CLSK3",
+    "class": null,
+    "skillGroup": "Paladin Skills",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "CLSK4",
+    "class": null,
+    "skillGroup": "Barbarian Skills",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "CLSK5",
+    "class": null,
+    "skillGroup": "Druid Skills",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "CLSK6",
+    "class": null,
+    "skillGroup": "Assassin Skills",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK10",
+    "class": null,
+    "skillGroup": "Jab",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK100",
+    "class": null,
+    "skillGroup": "Resist Fire",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK101",
+    "class": null,
+    "skillGroup": "Holy Bolt",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK102",
+    "class": null,
+    "skillGroup": "Holy Fire",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK103",
+    "class": null,
+    "skillGroup": "Thorns",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK104",
+    "class": null,
+    "skillGroup": "Defiance",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK105",
+    "class": null,
+    "skillGroup": "Resist Cold",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK106",
+    "class": null,
+    "skillGroup": "Zeal",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK107",
+    "class": null,
+    "skillGroup": "Charge",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK108",
+    "class": null,
+    "skillGroup": "Blessed Aim",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK109",
+    "class": null,
+    "skillGroup": "Cleansing",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK11",
+    "class": null,
+    "skillGroup": "Cold Arrow",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK110",
+    "class": null,
+    "skillGroup": "Resist Lightning",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK111",
+    "class": null,
+    "skillGroup": "Vengeance",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK112",
+    "class": null,
+    "skillGroup": "Blessed Hammer",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK113",
+    "class": null,
+    "skillGroup": "Concentration",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK114",
+    "class": null,
+    "skillGroup": "Holy Freeze",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK115",
+    "class": null,
+    "skillGroup": "Vigor",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK116",
+    "class": null,
+    "skillGroup": "Holy Sword",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK117",
+    "class": null,
+    "skillGroup": "Holy Shield",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK118",
+    "class": null,
+    "skillGroup": "Holy Shock",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK119",
+    "class": null,
+    "skillGroup": "Sanctuary",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK12",
+    "class": null,
+    "skillGroup": "Multiple Shot",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK120",
+    "class": null,
+    "skillGroup": "Meditation",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK121",
+    "class": null,
+    "skillGroup": "Fist of the Heavens",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK122",
+    "class": null,
+    "skillGroup": "Fanaticism",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK123",
+    "class": null,
+    "skillGroup": "Conviction",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK124",
+    "class": null,
+    "skillGroup": "Redemption",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK125",
+    "class": null,
+    "skillGroup": "Salvation",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK126",
+    "class": null,
+    "skillGroup": "Bash",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK127",
+    "class": null,
+    "skillGroup": "Sword Mastery",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK128",
+    "class": null,
+    "skillGroup": "General Mastery",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK129",
+    "class": null,
+    "skillGroup": "Mace Mastery",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK13",
+    "class": null,
+    "skillGroup": "Dodge",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK130",
+    "class": null,
+    "skillGroup": "Howl",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK131",
+    "class": null,
+    "skillGroup": "Find Potion",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK132",
+    "class": null,
+    "skillGroup": "Leap",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK133",
+    "class": null,
+    "skillGroup": "Double Swing",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK134",
+    "class": null,
+    "skillGroup": "Polearm and Spear Mastery",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK135",
+    "class": null,
+    "skillGroup": "Throwing Mastery",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK136",
+    "class": null,
+    "skillGroup": "Spear Mastery",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK137",
+    "class": null,
+    "skillGroup": "Taunt",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK138",
+    "class": null,
+    "skillGroup": "Shout",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK139",
+    "class": null,
+    "skillGroup": "Stun",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK14",
+    "class": null,
+    "skillGroup": "Power Strike",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK140",
+    "class": null,
+    "skillGroup": "Double Throw",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK141",
+    "class": null,
+    "skillGroup": "Combat Reflexes",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK142",
+    "class": null,
+    "skillGroup": "Find Item",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK143",
+    "class": null,
+    "skillGroup": "Leap Attack",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK144",
+    "class": null,
+    "skillGroup": "Concentrate",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK145",
+    "class": null,
+    "skillGroup": "Iron Skin",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK146",
+    "class": null,
+    "skillGroup": "Battle Cry",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK147",
+    "class": null,
+    "skillGroup": "Frenzy",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK148",
+    "class": null,
+    "skillGroup": "Increased Speed",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK149",
+    "class": null,
+    "skillGroup": "Battle Orders",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK15",
+    "class": null,
+    "skillGroup": "Poison Javelin",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK150",
+    "class": null,
+    "skillGroup": "Grim Ward",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK151",
+    "class": null,
+    "skillGroup": "Whirlwind",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK152",
+    "class": null,
+    "skillGroup": "Berserk",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK153",
+    "class": null,
+    "skillGroup": "Natural Resistance",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK154",
+    "class": null,
+    "skillGroup": "War Cry",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK155",
+    "class": null,
+    "skillGroup": "Battle Command",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK16",
+    "class": null,
+    "skillGroup": "Exploding Arrow",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK17",
+    "class": null,
+    "skillGroup": "Slow Movement",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK18",
+    "class": null,
+    "skillGroup": "Avoid",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK19",
+    "class": null,
+    "skillGroup": "Javelin and Spear Mastery",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK20",
+    "class": null,
+    "skillGroup": "Lightning Bolt",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK21",
+    "class": null,
+    "skillGroup": "Ice Arrow",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK22",
+    "class": null,
+    "skillGroup": "Guided Arrow",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK221",
+    "class": null,
+    "skillGroup": "Raven",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK222",
+    "class": null,
+    "skillGroup": "Poison Creeper",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK223",
+    "class": null,
+    "skillGroup": "Werewolf",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK224",
+    "class": null,
+    "skillGroup": "Lycanthropy",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK225",
+    "class": null,
+    "skillGroup": "Firestorm",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK226",
+    "class": null,
+    "skillGroup": "Oak Sage",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK227",
+    "class": null,
+    "skillGroup": "Summon Spirit Wolf",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK228",
+    "class": null,
+    "skillGroup": "Werebear",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK229",
+    "class": null,
+    "skillGroup": "Molten Boulder",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK23",
+    "class": null,
+    "skillGroup": "Penetrate",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK230",
+    "class": null,
+    "skillGroup": "Arctic Blast",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK231",
+    "class": null,
+    "skillGroup": "Carrion Vine",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK232",
+    "class": null,
+    "skillGroup": "Feral Rage",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK233",
+    "class": null,
+    "skillGroup": "Maul",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK234",
+    "class": null,
+    "skillGroup": "Fissure",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK235",
+    "class": null,
+    "skillGroup": "Cyclone Armor",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK236",
+    "class": null,
+    "skillGroup": "Heart of Wolverine",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK237",
+    "class": null,
+    "skillGroup": "Summon Dire Wolf",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK238",
+    "class": null,
+    "skillGroup": "Rabies",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK239",
+    "class": null,
+    "skillGroup": "Fire Claws",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK24",
+    "class": null,
+    "skillGroup": "Charged Strike",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK240",
+    "class": null,
+    "skillGroup": "Twister",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK241",
+    "class": null,
+    "skillGroup": "Solar Creeper",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK242",
+    "class": null,
+    "skillGroup": "Hunger",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK243",
+    "class": null,
+    "skillGroup": "Shock Wave",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK244",
+    "class": null,
+    "skillGroup": "Volcano",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK245",
+    "class": null,
+    "skillGroup": "Tornado",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK246",
+    "class": null,
+    "skillGroup": "Spirit of Barbs",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK247",
+    "class": null,
+    "skillGroup": "Summon Grizzly",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK248",
+    "class": null,
+    "skillGroup": "Fury",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK249",
+    "class": null,
+    "skillGroup": "Armageddon",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK25",
+    "class": null,
+    "skillGroup": "Plague Javelin",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK250",
+    "class": null,
+    "skillGroup": "Hurricane",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK251",
+    "class": null,
+    "skillGroup": "Fire Blast",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK252",
+    "class": null,
+    "skillGroup": "Claw and Dagger Mastery",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK253",
+    "class": null,
+    "skillGroup": "Psychic Hammer",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK254",
+    "class": null,
+    "skillGroup": "Tiger Strike",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK255",
+    "class": null,
+    "skillGroup": "Dragon Talon",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK256",
+    "class": null,
+    "skillGroup": "Shock Web",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK257",
+    "class": null,
+    "skillGroup": "Blade Sentinel",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK258",
+    "class": null,
+    "skillGroup": "Burst of Speed",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK259",
+    "class": null,
+    "skillGroup": "Fists of Fire",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK26",
+    "class": null,
+    "skillGroup": "Strafe",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK260",
+    "class": null,
+    "skillGroup": "Dragon Claw",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK261",
+    "class": null,
+    "skillGroup": "Charged Bolt Sentry",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK262",
+    "class": null,
+    "skillGroup": "Wake of Fire",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK263",
+    "class": null,
+    "skillGroup": "Weapon Block",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK264",
+    "class": null,
+    "skillGroup": "Cloak of Shadows",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK265",
+    "class": null,
+    "skillGroup": "Cobra Strike",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK266",
+    "class": null,
+    "skillGroup": "Blade Fury",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK267",
+    "class": null,
+    "skillGroup": "Fade",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK268",
+    "class": null,
+    "skillGroup": "Shadow Warrior",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK269",
+    "class": null,
+    "skillGroup": "Claws of Thunder",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK27",
+    "class": null,
+    "skillGroup": "Immolation Arrow",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK270",
+    "class": null,
+    "skillGroup": "Dragon Tail",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK271",
+    "class": null,
+    "skillGroup": "Chain Lightning Sentry",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK272",
+    "class": null,
+    "skillGroup": "Wake of Inferno",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK273",
+    "class": null,
+    "skillGroup": "Mind Blast",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK274",
+    "class": null,
+    "skillGroup": "Blades of Ice",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK275",
+    "class": null,
+    "skillGroup": "Dragon Flight",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK276",
+    "class": null,
+    "skillGroup": "Death Sentry",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK277",
+    "class": null,
+    "skillGroup": "Blade Shield",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK278",
+    "class": null,
+    "skillGroup": "Venom",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK279",
+    "class": null,
+    "skillGroup": "Shadow Master",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK28",
+    "class": null,
+    "skillGroup": "Decoy",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK280",
+    "class": null,
+    "skillGroup": "Phoenix Strike",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK29",
+    "class": null,
+    "skillGroup": "Evade",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK30",
+    "class": null,
+    "skillGroup": "Fend",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK31",
+    "class": null,
+    "skillGroup": "Freezing Arrow",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK32",
+    "class": null,
+    "skillGroup": "Valkyrie",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK33",
+    "class": null,
+    "skillGroup": "Pierce",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK34",
+    "class": null,
+    "skillGroup": "Lightning Strike",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK35",
+    "class": null,
+    "skillGroup": "Lightning Fury",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK357",
+    "class": null,
+    "skillGroup": "Blink",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK36",
+    "class": null,
+    "skillGroup": "Fire Bolt",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK364",
+    "class": null,
+    "skillGroup": "Holy Nova",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK366",
+    "class": null,
+    "skillGroup": "Lightning Sentry",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK367",
+    "class": null,
+    "skillGroup": "Blood Warp",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK368",
+    "class": null,
+    "skillGroup": "Deep Wounds",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK369",
+    "class": null,
+    "skillGroup": "Ice Barrage",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK37",
+    "class": null,
+    "skillGroup": "Warmth",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK370",
+    "class": null,
+    "skillGroup": "Gust",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK371",
+    "class": null,
+    "skillGroup": "Holy Light",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK374",
+    "class": null,
+    "skillGroup": "Curse Mastery",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK376",
+    "class": null,
+    "skillGroup": "Combustion",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK378",
+    "class": null,
+    "skillGroup": "Joust",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK38",
+    "class": null,
+    "skillGroup": "Charged Bolt",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK380",
+    "class": null,
+    "skillGroup": "Blade Dance",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK381",
+    "class": null,
+    "skillGroup": "Dark Pact",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK383",
+    "class": null,
+    "skillGroup": "Lesser Hydra",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK39",
+    "class": null,
+    "skillGroup": "Ice Bolt",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK391",
+    "class": null,
+    "skillGroup": "Lesser Fade",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK40",
+    "class": null,
+    "skillGroup": "Cold Enchant",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK400",
+    "class": null,
+    "skillGroup": "Bone Nova",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK41",
+    "class": null,
+    "skillGroup": "Inferno",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK42",
+    "class": null,
+    "skillGroup": "Static Field",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK43",
+    "class": null,
+    "skillGroup": "Telekinesis",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK44",
+    "class": null,
+    "skillGroup": "Frost Nova",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK442",
+    "class": null,
+    "skillGroup": "Amplify Damage (Proc)",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK443",
+    "class": null,
+    "skillGroup": "Weaken (Proc)",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK444",
+    "class": null,
+    "skillGroup": "Iron Maiden (Proc)",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK445",
+    "class": null,
+    "skillGroup": "Life Tap (Proc)",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK446",
+    "class": null,
+    "skillGroup": "Decrepify (Proc)",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK447",
+    "class": null,
+    "skillGroup": "Lower Resist (Proc)",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK45",
+    "class": null,
+    "skillGroup": "Ice Blast",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK46",
+    "class": null,
+    "skillGroup": "Blaze",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK47",
+    "class": null,
+    "skillGroup": "Fire Ball",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK48",
+    "class": null,
+    "skillGroup": "Nova",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK49",
+    "class": null,
+    "skillGroup": "Lightning",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK50",
+    "class": null,
+    "skillGroup": "Shiver Armor",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK51",
+    "class": null,
+    "skillGroup": "Fire Wall",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK52",
+    "class": null,
+    "skillGroup": "Enchant Fire",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK53",
+    "class": null,
+    "skillGroup": "Chain Lightning",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK54",
+    "class": null,
+    "skillGroup": "Teleport",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK55",
+    "class": null,
+    "skillGroup": "Glacial Spike",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK554",
+    "class": null,
+    "skillGroup": "Energy Shield (Item Supplied)",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK555",
+    "class": null,
+    "skillGroup": "Chilling Armor (Item Supplied)",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK556",
+    "class": null,
+    "skillGroup": "Burst of Speed (Item Supplied)",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK557",
+    "class": null,
+    "skillGroup": "Blade Shield (Item Supplied)",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK56",
+    "class": null,
+    "skillGroup": "Meteor",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK57",
+    "class": null,
+    "skillGroup": "Thunder Storm",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK58",
+    "class": null,
+    "skillGroup": "Energy Shield",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK59",
+    "class": null,
+    "skillGroup": "Blizzard",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK6",
+    "class": null,
+    "skillGroup": "Magic Arrow",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK60",
+    "class": null,
+    "skillGroup": "Chilling Armor",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK61",
+    "class": null,
+    "skillGroup": "Fire Mastery",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK62",
+    "class": null,
+    "skillGroup": "Hydra",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK63",
+    "class": null,
+    "skillGroup": "Lightning Mastery",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK64",
+    "class": null,
+    "skillGroup": "Frozen Orb",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK65",
+    "class": null,
+    "skillGroup": "Cold Mastery",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK66",
+    "class": null,
+    "skillGroup": "Amplify Damage",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK67",
+    "class": null,
+    "skillGroup": "Teeth",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK68",
+    "class": null,
+    "skillGroup": "Bone Armor",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK69",
+    "class": null,
+    "skillGroup": "Skeleton Mastery",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK7",
+    "class": null,
+    "skillGroup": "Fire Arrow",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK70",
+    "class": null,
+    "skillGroup": "Raise Skeleton Warrior",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK71",
+    "class": null,
+    "skillGroup": "Dim Vision",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK72",
+    "class": null,
+    "skillGroup": "Weaken",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK73",
+    "class": null,
+    "skillGroup": "Poison Strike",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK74",
+    "class": null,
+    "skillGroup": "Corpse Explosion",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK75",
+    "class": null,
+    "skillGroup": "Clay Golem",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK76",
+    "class": null,
+    "skillGroup": "Iron Maiden",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK77",
+    "class": null,
+    "skillGroup": "Terror",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK78",
+    "class": null,
+    "skillGroup": "Bone Wall",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK79",
+    "class": null,
+    "skillGroup": "Golem Mastery",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK8",
+    "class": null,
+    "skillGroup": "Inner Sight",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK80",
+    "class": null,
+    "skillGroup": "Raise Skeletal Mage",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK81",
+    "class": null,
+    "skillGroup": "Confuse",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK82",
+    "class": null,
+    "skillGroup": "Life Tap",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK83",
+    "class": null,
+    "skillGroup": "Desecrate",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK84",
+    "class": null,
+    "skillGroup": "Bone Spear",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK85",
+    "class": null,
+    "skillGroup": "Blood Golem",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK86",
+    "class": null,
+    "skillGroup": "Attract",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK87",
+    "class": null,
+    "skillGroup": "Decrepify",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK88",
+    "class": null,
+    "skillGroup": "Bone Prison",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK89",
+    "class": null,
+    "skillGroup": "Raise Skeleton Archer",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK9",
+    "class": null,
+    "skillGroup": "Critical Strike",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK90",
+    "class": null,
+    "skillGroup": "Iron Golem",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK91",
+    "class": null,
+    "skillGroup": "Lower Resist",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK92",
+    "class": null,
+    "skillGroup": "Poison Nova",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK93",
+    "class": null,
+    "skillGroup": "Bone Spirit",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK94",
+    "class": null,
+    "skillGroup": "Fire Golem",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK95",
+    "class": null,
+    "skillGroup": "Revive",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK96",
+    "class": null,
+    "skillGroup": "Sacrifice",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK97",
+    "class": null,
+    "skillGroup": "Smite",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK98",
+    "class": null,
+    "skillGroup": "Might",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "SK99",
+    "class": null,
+    "skillGroup": "Prayer",
+    "kind": "global_or_class_skill_group"
+  },
+  {
+    "code": "TABSK0",
+    "class": "Amazon",
+    "skillGroup": "Bow and Crossbow Skills",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK1",
+    "class": "Amazon",
+    "skillGroup": "Passive and Magic Skills",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK10",
+    "class": "Sorceress",
+    "skillGroup": "Cold Spells",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK16",
+    "class": "Necromancer",
+    "skillGroup": "Curses",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK17",
+    "class": "Necromancer",
+    "skillGroup": "Poison & Bone Spells",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK18",
+    "class": "Necromancer",
+    "skillGroup": "Summoning Spells",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK2",
+    "class": "Amazon",
+    "skillGroup": "Javelin and Spear Skills",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK24",
+    "class": "Paladin",
+    "skillGroup": "Combat Skills",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK25",
+    "class": "Paladin",
+    "skillGroup": "Offensive Auras",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK26",
+    "class": "Paladin",
+    "skillGroup": "Defensive Auras",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK32",
+    "class": "Barbarian",
+    "skillGroup": "Combat Skills",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK33",
+    "class": "Barbarian",
+    "skillGroup": "Combat Masteries",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK34",
+    "class": "Barbarian",
+    "skillGroup": "Warcries",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK40",
+    "class": "Druid",
+    "skillGroup": "Summoning",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK41",
+    "class": "Druid",
+    "skillGroup": "Shape Shifting",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK42",
+    "class": "Druid",
+    "skillGroup": "Elemental",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK48",
+    "class": "Assassin",
+    "skillGroup": "Traps",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK49",
+    "class": "Assassin",
+    "skillGroup": "Shadow Disciplines",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK50",
+    "class": "Assassin",
+    "skillGroup": "Martial Arts",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK8",
+    "class": "Sorceress",
+    "skillGroup": "Fire Spells",
+    "kind": "tab_skill_group"
+  },
+  {
+    "code": "TABSK9",
+    "class": "Sorceress",
+    "skillGroup": "Lightning Spells",
+    "kind": "tab_skill_group"
+  }
+]
