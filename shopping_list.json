@@ -81,6 +81,17 @@
       ],
       "useForCrafting": false,
       "craftingTier": null
+    },
+    {
+      "name": "Reflex Bow",
+      "code": "am2",
+      "category": "base",
+      "ethereal": false,
+      "quality": null,
+      "sockets": null,
+      "skillGroupFilters": [],
+      "useForCrafting": true,
+      "craftingTier": null
     }
   ],
   "Celloria": [
