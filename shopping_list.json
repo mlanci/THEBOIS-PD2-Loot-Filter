@@ -65,6 +65,22 @@
       "code": "ulc",
       "category": "unique",
       "ethereal": false
+    },
+    {
+      "name": "Ceremonial Bow",
+      "code": "am7",
+      "category": "base",
+      "ethereal": false,
+      "quality": null,
+      "sockets": null,
+      "skillGroupFilters": [
+        {
+          "group": "Bow and Crossbow Skills",
+          "minPlus": 2
+        }
+      ],
+      "useForCrafting": false,
+      "craftingTier": null
     }
   ],
   "Celloria": [
