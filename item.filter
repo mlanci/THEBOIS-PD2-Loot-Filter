@@ -2768,8 +2768,6 @@ ItemDisplay[uts UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[uts UNI ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[ci3 UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[ci3 UNI ID]: [Celloria] %NAME%%CONTINUE%
-ItemDisplay[crs MAG SOCK=5 !ID]: [Celloria] %NAME%%CONTINUE%
-ItemDisplay[crs MAG SOCK=5 ID]: [Celloria] %NAME%%CONTINUE%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Nico's Custom Rules
