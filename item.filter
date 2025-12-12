@@ -2770,6 +2770,8 @@ ItemDisplay[ci3 UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[ci3 UNI ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xmb UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xmb UNI ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[xsh UNI !ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[xsh UNI ID]: [Celloria] %NAME%%CONTINUE%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Nico's Custom Rules
