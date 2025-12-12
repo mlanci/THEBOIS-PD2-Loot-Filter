@@ -124,6 +124,17 @@
       "skillGroupFilters": [],
       "useForCrafting": false,
       "craftingTier": null
+    },
+    {
+      "name": "Crystal Sword",
+      "code": "crs",
+      "category": "base",
+      "ethereal": false,
+      "quality": "any",
+      "sockets": 5,
+      "skillGroupFilters": [],
+      "useForCrafting": false,
+      "craftingTier": null
     }
   ],
   "Syland": [
