@@ -2772,6 +2772,8 @@ ItemDisplay[xmb UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xmb UNI ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xsh UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xsh UNI ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[aar UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
+ItemDisplay[aar UNI ID]: [Whizzurd] %NAME%%CONTINUE%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Nico's Custom Rules
