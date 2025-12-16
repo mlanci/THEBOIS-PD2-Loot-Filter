@@ -157,6 +157,17 @@
       "skillGroupFilters": [],
       "useForCrafting": false,
       "craftingTier": null
+    },
+    {
+      "name": "Trang-Oul's Guise",
+      "code": "uh9",
+      "category": "unique",
+      "ethereal": false,
+      "quality": null,
+      "sockets": null,
+      "skillGroupFilters": [],
+      "useForCrafting": false,
+      "craftingTier": null
     }
   ],
   "Syland": [
