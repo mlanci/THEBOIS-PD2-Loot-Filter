@@ -2724,7 +2724,6 @@ ItemDisplay[cm1 MAG (HIGHVENGPFX OR (HIGHVENGSFX AND MIDVENGPFX) OR (MIDVENGPFX 
 SHOPPING LIST (AUTO-GENERATED) START
 // (n8n controls everything between these lines)
 ItemDisplay[xea UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
-ItemDisplay[9gs UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[uap UNI !ID]: [Syland] %NAME%%CONTINUE%
 ItemDisplay[uhm UNI !ID]: [Syland] %NAME%%CONTINUE%
 ItemDisplay[ci2 UNI !ID]: [Syland] %NAME%%CONTINUE%
@@ -2741,7 +2740,6 @@ ItemDisplay[xow UNI !ID]: [Syland] %NAME%%CONTINUE%
 ItemDisplay[8mx UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[ztb UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[cqv3 UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
-ItemDisplay[6lw UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[xsh UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[xsh UNI ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[xsh UNI !ID]: [Syland] %NAME%%CONTINUE%
