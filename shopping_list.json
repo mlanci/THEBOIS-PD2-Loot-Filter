@@ -164,6 +164,17 @@
       "skillGroupFilters": [],
       "useForCrafting": false,
       "craftingTier": null
+    },
+    {
+      "name": "Blackbog's Sharp",
+      "code": "9kr",
+      "category": "unique",
+      "ethereal": false,
+      "quality": null,
+      "sockets": null,
+      "skillGroupFilters": [],
+      "useForCrafting": false,
+      "craftingTier": null
     }
   ],
   "Syland": [
