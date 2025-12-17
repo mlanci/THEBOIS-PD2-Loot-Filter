@@ -526,7 +526,7 @@
     "name": "Trang-Oul's Guise",
     "type": "Item Elite Unique/Set",
     "code": "uh9",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "trang",
       "trang oul s guise",
@@ -1974,7 +1974,7 @@
     "name": "Trang-Oul's Scales",
     "type": "Item Exceptional Unique/Set",
     "code": "xul",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "trang",
       "trang oul s scales",
@@ -3000,7 +3000,7 @@
     "name": "Trang-Oul's Claws",
     "type": "Item Exceptional Unique/Set",
     "code": "xmg",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "trang",
       "trang oul s claws",
@@ -4104,7 +4104,7 @@
     "name": "Trang-Oul's Girth",
     "type": "Item Elite Unique/Set",
     "code": "utc",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "trang",
       "trang oul s girth",
@@ -5244,7 +5244,7 @@
     "name": "Trang-Oul's Wing",
     "type": "Item Exceptional Unique/Set",
     "code": "ne9",
-    "category": "unique",
+    "category": "set",
     "aliases": [
       "trang",
       "trang oul s wing",
