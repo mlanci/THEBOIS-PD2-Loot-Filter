@@ -120,6 +120,50 @@
       "skillGroupFilters": [],
       "useForCrafting": false,
       "craftingTier": null
+    },
+    {
+      "name": "Trang-Oul's Scales",
+      "code": "xul",
+      "category": "set",
+      "ethereal": false,
+      "quality": null,
+      "sockets": null,
+      "skillGroupFilters": [],
+      "useForCrafting": false,
+      "craftingTier": null
+    },
+    {
+      "name": "Trang-Oul's Guise",
+      "code": "uh9",
+      "category": "set",
+      "ethereal": false,
+      "quality": null,
+      "sockets": null,
+      "skillGroupFilters": [],
+      "useForCrafting": false,
+      "craftingTier": null
+    },
+    {
+      "name": "Trang-Oul's Girth",
+      "code": "utc",
+      "category": "set",
+      "ethereal": false,
+      "quality": null,
+      "sockets": null,
+      "skillGroupFilters": [],
+      "useForCrafting": false,
+      "craftingTier": null
+    },
+    {
+      "name": "Trang-Oul's Claws",
+      "code": "xmg",
+      "category": "set",
+      "ethereal": false,
+      "quality": null,
+      "sockets": null,
+      "skillGroupFilters": [],
+      "useForCrafting": false,
+      "craftingTier": null
     }
   ],
   "Syland": [
