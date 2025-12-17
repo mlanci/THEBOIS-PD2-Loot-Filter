@@ -2750,8 +2750,6 @@ ItemDisplay[ulc UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[ulc UNI ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[uth UNI !ID]: [Syland] %NAME%%CONTINUE%
 ItemDisplay[uth UNI ID]: [Syland] %NAME%%CONTINUE%
-ItemDisplay[xul UNI !ID]: [Celloria] %NAME%%CONTINUE%
-ItemDisplay[xul UNI ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xea UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xea UNI ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[uts UNI !ID]: [Celloria] %NAME%%CONTINUE%
@@ -2764,12 +2762,6 @@ ItemDisplay[xsh UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xsh UNI ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[aar UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[aar UNI ID]: [Whizzurd] %NAME%%CONTINUE%
-ItemDisplay[uh9 UNI !ID]: [Celloria] %NAME%%CONTINUE%
-ItemDisplay[uh9 UNI ID]: [Celloria] %NAME%%CONTINUE%
-ItemDisplay[utc UNI !ID]: [Celloria] %NAME%%CONTINUE%
-ItemDisplay[utc UNI ID]: [Celloria] %NAME%%CONTINUE%
-ItemDisplay[xmg UNI !ID]: [Celloria] %NAME%%CONTINUE%
-ItemDisplay[xmg UNI ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xth UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xth UNI ID]: [Celloria] %NAME%%CONTINUE%
 SHOPPING LIST (AUTO-GENERATED) END
