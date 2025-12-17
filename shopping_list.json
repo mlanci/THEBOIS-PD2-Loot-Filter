@@ -148,6 +148,17 @@
       "skillGroupFilters": [],
       "useForCrafting": false,
       "craftingTier": null
+    },
+    {
+      "name": "Atma's Wail",
+      "code": "xth",
+      "category": "unique",
+      "ethereal": false,
+      "quality": null,
+      "sockets": null,
+      "skillGroupFilters": [],
+      "useForCrafting": false,
+      "craftingTier": null
     }
   ],
   "Syland": [
