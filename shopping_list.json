@@ -56,12 +56,6 @@
   ],
   "Celloria": [
     {
-      "name": "Trang-Oul's Scales",
-      "code": "xul",
-      "category": "unique",
-      "ethereal": false
-    },
-    {
       "name": "Skin of the Vipermagi",
       "code": "xea",
       "category": "unique",
@@ -108,39 +102,6 @@
     {
       "name": "Lidless Wall",
       "code": "xsh",
-      "category": "unique",
-      "ethereal": false,
-      "quality": null,
-      "sockets": null,
-      "skillGroupFilters": [],
-      "useForCrafting": false,
-      "craftingTier": null
-    },
-    {
-      "name": "Trang-Oul's Guise",
-      "code": "uh9",
-      "category": "unique",
-      "ethereal": false,
-      "quality": null,
-      "sockets": null,
-      "skillGroupFilters": [],
-      "useForCrafting": false,
-      "craftingTier": null
-    },
-    {
-      "name": "Trang-Oul's Girth",
-      "code": "utc",
-      "category": "unique",
-      "ethereal": false,
-      "quality": null,
-      "sockets": null,
-      "skillGroupFilters": [],
-      "useForCrafting": false,
-      "craftingTier": null
-    },
-    {
-      "name": "Trang-Oul's Claws",
-      "code": "xmg",
       "category": "unique",
       "ethereal": false,
       "quality": null,
