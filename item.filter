@@ -2764,6 +2764,14 @@ ItemDisplay[aar UNI !ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[aar UNI ID]: [Whizzurd] %NAME%%CONTINUE%
 ItemDisplay[xth UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xth UNI ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[xul SET !ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[xul SET ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[uh9 SET !ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[uh9 SET ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[utc SET !ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[utc SET ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[xmg SET !ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[xmg SET ID]: [Celloria] %NAME%%CONTINUE%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Nico's Custom Rules
