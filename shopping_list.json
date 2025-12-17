@@ -56,26 +56,8 @@
   ],
   "Celloria": [
     {
-      "name": "Aetherwing",
-      "code": "aqv3",
-      "category": "unique",
-      "ethereal": false
-    },
-    {
-      "name": "Nightwing's Veil",
-      "code": "uhm",
-      "category": "unique",
-      "ethereal": false
-    },
-    {
       "name": "Trang-Oul's Scales",
       "code": "xul",
-      "category": "unique",
-      "ethereal": false
-    },
-    {
-      "name": "Widowmaker",
-      "code": "6sw",
       "category": "unique",
       "ethereal": false
     },
