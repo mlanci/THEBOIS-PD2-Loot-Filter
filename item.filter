@@ -2774,6 +2774,8 @@ ItemDisplay[xmg SET !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[xmg SET ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[9kr UNI !ID]: [Celloria] %NAME%%CONTINUE%
 ItemDisplay[9kr UNI ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[6sw UNI !ID]: [Celloria] %NAME%%CONTINUE%
+ItemDisplay[6sw UNI ID]: [Celloria] %NAME%%CONTINUE%
 SHOPPING LIST (AUTO-GENERATED) END
 
 //Nico's Custom Rules
