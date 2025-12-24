@@ -186,6 +186,17 @@
       "skillGroupFilters": [],
       "useForCrafting": false,
       "craftingTier": null
+    },
+    {
+      "name": "Aetherwing",
+      "code": "aqv3",
+      "category": "unique",
+      "ethereal": false,
+      "quality": null,
+      "sockets": null,
+      "skillGroupFilters": [],
+      "useForCrafting": false,
+      "craftingTier": null
     }
   ],
   "Syland": [
